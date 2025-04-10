@@ -1,6 +1,5 @@
 import platform
 import subprocess
-import sys
 
 def run_command(command, shell=False):
     try:
